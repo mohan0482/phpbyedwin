@@ -1,0 +1,6 @@
+<?php 
+
+    unlink("del.php");
+    
+
+?>
